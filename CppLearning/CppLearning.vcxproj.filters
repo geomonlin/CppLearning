@@ -45,6 +45,12 @@
     <ClCompile Include="PAT_Test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="useStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variance2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Util.h">
@@ -60,6 +66,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="OpenCV_LearNing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="useStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

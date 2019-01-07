@@ -13,57 +13,13 @@
 #include"test.h"
 #include"STL_Learning.h"
 #include"OpenCV_LearNing.h"
+#include"useStack.h"
 
 using namespace std;
 
 void caluateSEofMatrix();
 
-int main() {
-	test_capture();
-	cin.get();
-	return 0;
-}
-//int main()
-//{
-//	int
-//		a[4][4] = { { 1,2,3.1,4 },{ 5,6,7,8 },{ 11,12,13,14 },{ 15,16,17,18 } };
-//	int
-//		i = 0, j = 0, s = 0;
+//int main() {
 //
-//	while (i++<4)
-//	{
-//
-//		if (i == 2 || i == 4) continue;
-//
-//		j = 0;
-//
-//		do { s += a[i][j]; j++; } while (j<4);
-//	}
-//
-//	printf("%d\n", s);
-//	cin.get();
-//}
-
-//#include<iostream>
-//using namespace std;
-//int main()
-//{
-//	char c[2][5] = { "6938" , "8254" }, *p[2];
-//	int s = 0;
-//	for (int i = 0; i < 2; i++)
-//		p[i] = c[i];
-//	for (int i = 0, j = 0; i <4; i++, j += 2)
-//	{
-//		if (j>3)
-//		{
-//			j = 0;
-//		}
-//		s = 10 * s + (p[i / 2][j] - '0');
-//	}
-//	cout << s << endl;
-//	cin.get();
 //	return 0;
 //}
-
-//Util u;
-

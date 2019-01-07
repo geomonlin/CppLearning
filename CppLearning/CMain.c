@@ -44,3 +44,12 @@
 //		printf("%d\n", fun(9));
 //		getchar();
 //	}
+
+//#include<stdio.h>
+//#include<math.h>
+//int main() {
+//	__int64 i = -pow(2, 63);
+//	printf("__int64 = %lld\n", i);
+//	getchar();
+//	return 0;
+//}

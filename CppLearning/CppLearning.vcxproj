@@ -138,7 +138,9 @@
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="STL_Learning.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="useStack.cpp" />
     <ClCompile Include="Util.cpp" />
+    <ClCompile Include="variance2.cpp" />
     <ClCompile Include="WeiMing.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -146,6 +148,7 @@
     <ClInclude Include="stdio.h" />
     <ClInclude Include="STL_Learning.h" />
     <ClInclude Include="test.h" />
+    <ClInclude Include="useStack.h" />
     <ClInclude Include="Util.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
