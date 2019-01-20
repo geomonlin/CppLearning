@@ -20,14 +20,8 @@ using namespace std;
 void caluateSEofMatrix();
 
 int main() {
-	char c = 'A';
-	char d = 'a';
-	cout << isupper(c) << endl;
-	cout << isupper(d) << endl;
-	int a = '1';
-	int b = 0111;
-	cout << isdigit('9') << endl;
-	cout << isdigit(b) << endl;
+	testTp<int> a;
+	a.add();
 	cin.get();
 	return 0;
 }

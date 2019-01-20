@@ -143,12 +143,12 @@ class TestG :public TestD, TestE {
 
 // Ä£°å
 
-template<class T>;
+template<class T>
 class testTp {
 private:
-
+	T a, b;
 public:
 	void add() {
-
+		cout << a + b << endl;
 	}
 };
