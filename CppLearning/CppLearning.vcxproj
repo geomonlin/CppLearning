@@ -140,7 +140,6 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="useStack.cpp" />
     <ClCompile Include="Util.cpp" />
-    <ClCompile Include="variance2.cpp" />
     <ClCompile Include="WeiMing.cpp" />
   </ItemGroup>
   <ItemGroup>

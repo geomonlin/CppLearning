@@ -140,3 +140,15 @@ class TestF :public TestD {
 class TestG :public TestD, TestE {
 
 };
+
+// Ä£°å
+
+template<class T>;
+class testTp {
+private:
+
+public:
+	void add() {
+
+	}
+};

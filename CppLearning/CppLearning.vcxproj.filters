@@ -48,9 +48,6 @@
     <ClCompile Include="useStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="variance2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Util.h">

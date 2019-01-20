@@ -14,12 +14,20 @@
 #include"STL_Learning.h"
 #include"OpenCV_LearNing.h"
 #include"useStack.h"
-
+#include<cctype>
 using namespace std;
 
 void caluateSEofMatrix();
 
-//int main() {
-//
-//	return 0;
-//}
+int main() {
+	char c = 'A';
+	char d = 'a';
+	cout << isupper(c) << endl;
+	cout << isupper(d) << endl;
+	int a = '1';
+	int b = 0111;
+	cout << isdigit('9') << endl;
+	cout << isdigit(b) << endl;
+	cin.get();
+	return 0;
+}
