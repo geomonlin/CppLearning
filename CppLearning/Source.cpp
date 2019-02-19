@@ -22,6 +22,7 @@ void caluateSEofMatrix();
 int main() {
 	testTp<int> a;
 	a.add();
+	
 	cin.get();
 	return 0;
 }

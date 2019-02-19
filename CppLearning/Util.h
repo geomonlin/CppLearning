@@ -16,6 +16,11 @@
 
 using namespace std;
 
+struct test0216 {
+	int a;
+};
+
+
 class Util {
 private:
 	static int count;
